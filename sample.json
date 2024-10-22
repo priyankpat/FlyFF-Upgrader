@@ -1,100 +1,72 @@
 {
     "inventory_cess_pos": {
         "key": "inventory_cess_pos",
-        "x": 1103,
-        "y": 2131,
-        "x1": null,
-        "y1": null
+        "x": 2029,
+        "y": 891
     },
     "inventory_ces_pos": {
         "key": "inventory_ces_pos",
-        "x": 1097,
-        "y": 2133,
-        "x1": null,
-        "y1": null
+        "x": 2078,
+        "y": 890
     },
     "start_button_pos": {
         "key": "start_button_pos",
-        "x": 1097,
-        "y": 2135,
-        "x1": null,
-        "y1": null
+        "x": 1111,
+        "y": 675
     },
     "stop_button_pos": {
         "key": "stop_button_pos",
-        "x": 1097,
-        "y": 2135,
-        "x1": null,
-        "y1": null
+        "x": 1256,
+        "y": 673
     },
     "reset_button_pos": {
         "key": "reset_button_pos",
-        "x": 1097,
-        "y": 2135,
-        "x1": null,
-        "y1": null
+        "x": 1350,
+        "y": 673
     },
     "plus_button_pos": {
         "key": "plus_button_pos",
-        "x": 1097,
-        "y": 2135,
-        "x1": null,
-        "y1": null
+        "x": 1366,
+        "y": 583
     },
     "minus_button_pos": {
         "key": "minus_button_pos",
-        "x": 1097,
-        "y": 2135,
-        "x1": null,
-        "y1": null
+        "x": 1315,
+        "y": 583
     },
     "upgrade_ces_pos": {
         "key": "upgrade_ces_pos",
-        "x": 1097,
-        "y": 2135,
-        "x1": null,
-        "y1": null
+        "x": 1056,
+        "y": 630
     },
     "upgrade_cess_pos": {
         "key": "upgrade_cess_pos",
-        "x": 1097,
-        "y": 2135,
-        "x1": null,
-        "y1": null
+        "x": 1160,
+        "y": 629
     },
     "upgrade_status_pos": {
         "key": "upgrade_status_pos",
-        "x": 1097,
-        "y": 2135,
-        "x1": null,
-        "y1": null
+        "x": 1337,
+        "y": 620
     },
     "update_number_start_pos": {
         "key": "update_number_start_pos",
-        "x": 1097,
-        "y": 2135,
-        "x1": null,
-        "y1": null
+        "x": 1108,
+        "y": 570
     },
     "update_number_end_pos": {
         "key": "update_number_end_pos",
-        "x": 1097,
-        "y": 2135,
-        "x1": null,
-        "y1": null
+        "x": 1139,
+        "y": 591
     },
     "tries_number_start_pos": {
         "key": "tries_number_start_pos",
-        "x": 1097,
-        "y": 2135,
-        "x1": null,
-        "y1": null
+        "x": 1073,
+        "y": 513
     },
     "tries_number_end_pos": {
         "key": "tries_number_end_pos",
-        "x": 1097,
-        "y": 2135,
-        "x1": null,
-        "y1": null
+        "x": 1170,
+        "y": 538
     }
 }

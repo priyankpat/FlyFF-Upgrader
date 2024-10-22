@@ -18,7 +18,5 @@ class Position(object):
         return {
             'key': self.key,
             'x': self.x,
-            'y': self.y,
-            'x1': self.x1,
-            'y1': self.y1
+            'y': self.y
         }
