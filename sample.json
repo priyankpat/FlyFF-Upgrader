@@ -1,0 +1,100 @@
+{
+    "inventory_cess_pos": {
+        "key": "inventory_cess_pos",
+        "x": 1103,
+        "y": 2131,
+        "x1": null,
+        "y1": null
+    },
+    "inventory_ces_pos": {
+        "key": "inventory_ces_pos",
+        "x": 1097,
+        "y": 2133,
+        "x1": null,
+        "y1": null
+    },
+    "start_button_pos": {
+        "key": "start_button_pos",
+        "x": 1097,
+        "y": 2135,
+        "x1": null,
+        "y1": null
+    },
+    "stop_button_pos": {
+        "key": "stop_button_pos",
+        "x": 1097,
+        "y": 2135,
+        "x1": null,
+        "y1": null
+    },
+    "reset_button_pos": {
+        "key": "reset_button_pos",
+        "x": 1097,
+        "y": 2135,
+        "x1": null,
+        "y1": null
+    },
+    "plus_button_pos": {
+        "key": "plus_button_pos",
+        "x": 1097,
+        "y": 2135,
+        "x1": null,
+        "y1": null
+    },
+    "minus_button_pos": {
+        "key": "minus_button_pos",
+        "x": 1097,
+        "y": 2135,
+        "x1": null,
+        "y1": null
+    },
+    "upgrade_ces_pos": {
+        "key": "upgrade_ces_pos",
+        "x": 1097,
+        "y": 2135,
+        "x1": null,
+        "y1": null
+    },
+    "upgrade_cess_pos": {
+        "key": "upgrade_cess_pos",
+        "x": 1097,
+        "y": 2135,
+        "x1": null,
+        "y1": null
+    },
+    "upgrade_status_pos": {
+        "key": "upgrade_status_pos",
+        "x": 1097,
+        "y": 2135,
+        "x1": null,
+        "y1": null
+    },
+    "update_number_start_pos": {
+        "key": "update_number_start_pos",
+        "x": 1097,
+        "y": 2135,
+        "x1": null,
+        "y1": null
+    },
+    "update_number_end_pos": {
+        "key": "update_number_end_pos",
+        "x": 1097,
+        "y": 2135,
+        "x1": null,
+        "y1": null
+    },
+    "tries_number_start_pos": {
+        "key": "tries_number_start_pos",
+        "x": 1097,
+        "y": 2135,
+        "x1": null,
+        "y1": null
+    },
+    "tries_number_end_pos": {
+        "key": "tries_number_end_pos",
+        "x": 1097,
+        "y": 2135,
+        "x1": null,
+        "y1": null
+    }
+}
