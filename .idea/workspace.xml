@@ -5,15 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41078229-0698-4826-837f-b589125ce183" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/eng.traineddata" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/fp_tries.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/fp_tries_upscaled_image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tries_threshold.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sample.json" beforeDir="false" afterPath="$PROJECT_DIR$/sample.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/status.png" beforeDir="false" afterPath="$PROJECT_DIR$/status.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/status_upscaled_image.png" beforeDir="false" afterPath="$PROJECT_DIR$/status_upscaled_image.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tries.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tries_upscaled_image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tries.png" beforeDir="false" afterPath="$PROJECT_DIR$/tries.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tries_upscaled_image.png" beforeDir="false" afterPath="$PROJECT_DIR$/tries_upscaled_image.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/upgrader/caster.py" beforeDir="false" afterPath="$PROJECT_DIR$/upgrader/caster.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/upgrader/position.py" beforeDir="false" afterPath="$PROJECT_DIR$/upgrader/position.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/upgrader/status.py" beforeDir="false" afterPath="$PROJECT_DIR$/upgrader/status.py" afterDir="false" />
@@ -132,7 +134,7 @@
       <updated>1729569371732</updated>
       <workItem from="1729569373292" duration="10941000" />
       <workItem from="1729616755699" duration="17989000" />
-      <workItem from="1729659772565" duration="52014000" />
+      <workItem from="1729659772565" duration="52650000" />
     </task>
     <servers />
   </component>
