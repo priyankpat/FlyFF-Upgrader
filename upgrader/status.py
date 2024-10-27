@@ -45,7 +45,7 @@ class StatusRecorder(threading.Thread):
             # print("[Status] Recognized text:", text.strip())
             self._comm_queue.put({ 'status': text.strip() })
 
-            sleep(0.5)
+            sleep(0.1)
 
     def stop(self):
         self._running = False

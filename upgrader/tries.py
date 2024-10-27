@@ -41,11 +41,10 @@ class TriesRecorder(threading.Thread):
             custom_config = r'--oem 3 --psm 10 outputbase digits -c tessedit_char_whitelist=0123456789'
             text = pytesseract.image_to_string(upscaled, config=custom_config)
 
-            text = pytesseract.image_to_string(upscaled, config=custom_config)
             # print("[Tries] Recognized text:", text.strip())
             self._comm_queue.put({ 'tries': text.strip() })
 
-            sleep(0.5)
+            sleep(0.1)
 
     def stop(self):
         self._running = False

@@ -1,72 +1,110 @@
 {
+    "item_1_pos": {
+        "key": "item_1_pos",
+        "desc": "Item Position 1",
+        "x": 56,
+        "y": 914
+    },
+    "item_2_pos": {
+        "key": "item_2_pos",
+        "desc": "Item Position 2",
+        "x": 98,
+        "y": 913
+    },
+    "item_3_pos": {
+        "key": "item_3_pos",
+        "desc": "Item Position 3",
+        "x": 141,
+        "y": 916
+    },
+    "item_4_pos": {
+        "key": "item_4_pos",
+        "desc": "Item Position 4",
+        "x": 185,
+        "y": 919
+    },
     "inventory_cess_pos": {
         "key": "inventory_cess_pos",
-        "x": 2029,
-        "y": 891
+        "desc": "Inventory Cess Position",
+        "x": 493,
+        "y": 918
     },
     "inventory_ces_pos": {
         "key": "inventory_ces_pos",
-        "x": 2078,
-        "y": 890
+        "desc": "Inventory Cess Position",
+        "x": 535,
+        "y": 910
     },
     "start_button_pos": {
         "key": "start_button_pos",
-        "x": 1111,
-        "y": 675
+        "desc": "Start Button Position",
+        "x": 1091,
+        "y": 701
     },
     "stop_button_pos": {
         "key": "stop_button_pos",
-        "x": 1256,
-        "y": 673
+        "desc": "Stop Button Position",
+        "x": 1236,
+        "y": 699
     },
     "reset_button_pos": {
         "key": "reset_button_pos",
-        "x": 1350,
-        "y": 673
+        "desc": "Reset Button Position",
+        "x": 1333,
+        "y": 705
     },
     "plus_button_pos": {
         "key": "plus_button_pos",
-        "x": 1366,
-        "y": 583
+        "desc": "Plus Button Position",
+        "x": 1353,
+        "y": 614
     },
     "minus_button_pos": {
         "key": "minus_button_pos",
-        "x": 1315,
-        "y": 583
+        "desc": "Minus Button Position",
+        "x": 1294,
+        "y": 614
     },
     "upgrade_ces_pos": {
         "key": "upgrade_ces_pos",
-        "x": 1056,
-        "y": 630
+        "desc": "Upgrade Ces Position",
+        "x": 1039,
+        "y": 659
     },
     "upgrade_cess_pos": {
         "key": "upgrade_cess_pos",
-        "x": 1160,
-        "y": 629
+        "desc": "Upgrade Cess Position",
+        "x": 1133,
+        "y": 658
     },
     "upgrade_status_pos": {
         "key": "upgrade_status_pos",
-        "x": 1337,
-        "y": 620
+        "desc": "Upgrade Status Position",
+        "x": 1180,
+        "y": 663
     },
     "update_number_start_pos": {
         "key": "update_number_start_pos",
-        "x": 1108,
-        "y": 570
+        "desc": "Update Number Start Position",
+        "x": 1085,
+        "y": 600
     },
     "update_number_end_pos": {
         "key": "update_number_end_pos",
-        "x": 1139,
-        "y": 591
+        "desc": "Update Number End Position",
+        "x": 1125,
+        "y": 621
     },
     "tries_number_start_pos": {
         "key": "tries_number_start_pos",
-        "x": 1073,
-        "y": 513
+        "desc": "Tries Number Start Position",
+        "x": 1070,
+        "y": 545
     },
     "tries_number_end_pos": {
         "key": "tries_number_end_pos",
-        "x": 1170,
-        "y": 538
+        "desc": "Tries Number End Position",
+        "x": 1148,
+        "y": 566
     }
 }
