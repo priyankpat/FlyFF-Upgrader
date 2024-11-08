@@ -14,6 +14,8 @@ from upgrader.types import Position
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 # os.environ['TESSDATA_PREFIX'] = r'C:\Users\shank\Documents\Upgrader'
 
+tries_reset_limit = 150
+
 class Caster(threading.Thread):
     def __init__(self, tries_queue: Queue, status_queue: Queue):
         super().__init__()
@@ -89,7 +91,6 @@ class Caster(threading.Thread):
             self.status_pos = status_position
 
     def get_tries(self, position):
-        print(position)
         img = ImageGrab.grab(bbox=position)
         img.save("tries.png")
 
@@ -123,7 +124,7 @@ class Caster(threading.Thread):
             tries = int(tries_raw) if tries_raw != '' and tries_raw != None else None
 
             print(f'Tries: {tries}')
-            if tries != None and tries >= 150:
+            if tries != None and tries >= tries_reset_limit:
                 self.reset()
                 break
 
